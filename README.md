@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-![flixsterp2](https://user-images.githubusercontent.com/72993271/133179881-adde599f-21ac-4ca6-8bb4-cc064b9542df.gif)
+![flixsterp3](https://user-images.githubusercontent.com/72993271/133307988-8d93605c-0fca-4ec0-b220-01ccb5ece8aa.gif)
 
 ### Notes
 
